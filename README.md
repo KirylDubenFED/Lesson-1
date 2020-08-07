@@ -1,2 +1,1 @@
-# Lesson-1
-TMS
+https://kiryldubenfed.github.io/Lesson-2/
